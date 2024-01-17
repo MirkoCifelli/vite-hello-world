@@ -2,7 +2,7 @@
 export default {
     data() {
         return { 
-            title: 'ciao ragazzi'
+            title: 'La mia prima app con Vite!'
         }
     },
    
@@ -20,7 +20,7 @@ export default {
 <style scoped>
 header{
     padding: 20px;
-    background-color: aquamarine;
+    background-color: black;
 }
 h1{
     color: lightcoral;
